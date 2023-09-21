@@ -1,8 +1,6 @@
 #include<string.h>
 #include<stdio.h>
 void main(){
-printf("Hello, I am gonna merge this branch(xuanhien) to main branch");
-printf("extra line");
-print("extra line 2");
+printf("Hello, we are group 27\n");
 }
 
