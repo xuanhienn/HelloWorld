@@ -1,3 +1,5 @@
 Test lệnh git pull
-chắc chắn gặp lỗi
+
+lỗi conflict
+
 
