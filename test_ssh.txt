@@ -1,4 +1,3 @@
 Test lệnh git pull
-re
 chắc chắn gặp lỗi
 
