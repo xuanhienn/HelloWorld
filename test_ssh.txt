@@ -1,2 +1,5 @@
 Test lệnh git pull
-Cố Ý Để conflict nè 
+lỗi conflict
+
+
+
